@@ -44,8 +44,9 @@
     width: 260px;
     height:260px;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit: contain;
     z-index: 2;
+    background-color: black;
 }
 .details{
     display: flex;

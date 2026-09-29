@@ -5,7 +5,7 @@ if (toggle) {
     })
 }
 
-const words = ["Web Developer", "Data Analyst", "Java Developer", "Python Developer"]
+const words = ["Web Developer", "Integeration Developer", "Java Developer", "Python Developer"]
 const typingText = document.getElementById("typingSpan");
 let wordIndex = 0;
 let charIndex = 0;
